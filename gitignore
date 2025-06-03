@@ -1,0 +1,48 @@
+
+## Visual Studio ile ilgili klasör ve dosyalar
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build çıktıları
+bin/
+obj/
+[Bb]uild/
+[Bb]uild[Ll]og.*
+
+## NuGet paketleri
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+*.psmdcp
+
+## Geçici dosyalar
+*.log
+*.tmp
+*.bak
+*.cache
+*.swp
+
+## IDE ayarları ve diğer
+*.dbmdl
+*.pdb
+*.resharper
+_ReSharper*/
+*.DotSettings.user
+TestResults/
+*.vspscc
+*.vssscc
+*.orig
+
+## OS'e özgü
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+## Kişisel notlar veya özel ayarlar
+*.env
+*.config.user
