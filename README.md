@@ -18,28 +18,29 @@ This is a Windows Forms application developed in C# for managing personnel recor
 
 ### 🔐 Login Panel
 
+![giris1](https://github.com/user-attachments/assets/00af01e0-362c-4da8-9ff8-64a9e434d797)
 
-![giris1](https://github.com/user-attachments/assets/947ccfcb-9772-4460-9646-1f1d78f95bde)
+
 
 ---
 
 ### 📋 Main Dashboard
 
-![anapanel](https://github.com/user-attachments/assets/a3938f21-ca85-4e6d-8367-7ef31d53d8ee)
+![anapanel](https://github.com/user-attachments/assets/b12e7336-833a-4e1b-b4ae-66162b16199e)
 
 
 ---
 
 ### 📈 Statistics Screen
 
-![istatistik](https://github.com/user-attachments/assets/de26bb3c-fc27-4aea-89ca-fddb93692948)
+![istatistik](https://github.com/user-attachments/assets/5a77d885-d884-456a-823f-ddaed7e48a82)
 
 
 ---
 
 ### 📊 Charts
 
-![grafik](https://github.com/user-attachments/assets/c11e8d5d-b4ca-4317-b2e0-c311ec73e80d)
-   
+   ![grafik](https://github.com/user-attachments/assets/439a2ac2-a7aa-4395-8ddc-7ca5e2f40c2c)
+
 
 ---
